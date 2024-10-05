@@ -1,0 +1,1 @@
+audio = r.listen(source, timeout=10, phrase_time_limit=6)
